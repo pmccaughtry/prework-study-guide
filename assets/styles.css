@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+footer,
+header {
+    background-color: blue;
+    color: white;
+    height: 120px;
+    width: 100%;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+}
+
+ul {
+    font-size: 20px;
+    padding-left: 40px;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.card {
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888;
+    margin: 40px auto;
+    width: 80%;
+}
