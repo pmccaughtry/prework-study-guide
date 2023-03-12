@@ -28,3 +28,4 @@ listTopics();
 console.log('Here we select a topic at random from topics:');
 
 selectTopic(randomTopic);
+
